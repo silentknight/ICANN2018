@@ -1,4 +1,4 @@
 define Exp(A,X) ~[?* <> X] & A^<LEN>;
 define G Exp([a|b|c|d],[ <FORBIDDEN> ]);
 regex G;
-print words 1000000000
+print words 1000000
