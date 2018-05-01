@@ -1,83 +1,39 @@
 #/usr/bin/python
 import os
 import random
+import time
+import re
 
 def main():
-	dirPath = "../data/"
+	dirPath = "/mnt/data/SP_data"
 
-	try:
-		for root, dirs, files in os.walk(dirPath):
-			files.sort()
-			for name in files:
-				print name
+	# lang = "SP2"
+	# datasets = [[2,20],[21,100],[101,200],[201,500]]
 
-			# f = open(os.path.join(dirPath, files[0]),"r")
-			# newData += f.readlines()
-			# f.close()
+	lang = "SP4"
+	datasets = [[4,20],[21,100],[101,200],[201,500]]
 
-			# f = open(os.path.join(dirPath, files[1]),"r")
-			# newData += f.readlines()
-			# f.close()
+	for dr in datasets:
+		data = []
+		for i in range(dr[0],dr[1]+1):
+			filename = lang+"_"+str(i)+".dat"
+			print(filename)
+			path = os.path.join(dirPath,lang,filename)
+			try:
+				f = open(path,"r")
+				data += f.readlines()[2:]
+				f.close()
+			except TypeError as e:
+		 		print(e)
 
-			# f = open(os.path.join(dirPath, files[2]),"r")
-			# newData += f.readlines()
-			# f.close()
+		random.shuffle(data)
+		data = ''.join(data)
+		data = re.sub(r'([[1-9])\w+', '', data)
+		data = data.replace('] ','')
 
-			# final_data = list(set(newData))
-			# random.shuffle(final_data)
-
-			# final_data = ''.join(final_data)
-
-			# f = open(os.path.join(dirPath, nameParts[0]+"_"+nameParts[2]+".txt"),"w")
-			# f.write(final_data)
-			# f.close()
-
-	except TypeError as e:
- 		print(e)
-
+		f = open(os.path.join(dirPath, lang, "Data_"+lang+"_"+str(dr[1])+".dat"),"w")
+		f.write(data)
+		f.close()
 
 if __name__ == '__main__':
 	main()
-
-# 	dirPath = "data/SP"
-
-# 	try:
-# 		for root, dirs, files in os.walk(dirPath):
-# 			files.sort()
-# 			for name in files:
-# 				nameParts = name.split('.')
-# 				if nameParts[1] == "foma":
-# 					nameHead = nameParts[0].split('-')
-# 					filename = '../model_data/'+nameHead[0]+'_'+nameHead[3]+'_'+nameHead[2]+'.txt'
-					
-# 					name = os.path.join(root, name)
-
-# 					if os.path.exists(filename):
-# 						append_write = 'a'
-# 					else:
-# 						append_write = 'w'
-
-# 					readText = open(name,"r")
-# 					data = readText.readlines()
-# 					readText.close()
-
-# 					final_data = []
-# 					for line in data:
-# 						if line[0] == '[':
-# 							part = line.split()
-# 							final_data.append(part[1]+'\n')
-
-# 					final_data = list(set(final_data))
-# 					random.shuffle(final_data)
-# 					final_data = ''.join(final_data)
-
-# 					print(name)
-# 					writeText = open(filename,append_write)
-# 					writeText.write(final_data)
-# 					writeText.close()
-					
-# 	except TypeError as e:
-# 		print(e)
-
-# if __name__ == '__main__':
-# 	main()

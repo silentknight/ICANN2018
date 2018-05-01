@@ -3,7 +3,7 @@
 for start in {2..4..2}; do
 	for ((i=$start; i<=500; i++)); do
 		mkdir SP$start
-		mkdir ../data/SP$start
+		mkdir /mnt/data/SP_data/SP$start
 		cp SP_Template SP$start/SP$start\_$i.foma
 		sed -i "s/<LEN>/$i/g" SP$start/SP$start\_$i.foma
 		if [ $start = 2 ]
@@ -15,7 +15,7 @@ for start in {2..4..2}; do
 		fi
 
 		echo "Processing file: "SP$start/SP$start\_$i.foma
-		touch ../data/SP$start/SP$start\_$i.dat
-		foma -f SP$start/SP$start\_$i.foma > ../data/SP$start/SP$start\_$i.dat
+		touch /mnt/data/SP_data/SP$start/SP$start\_$i.dat
+		foma -f SP$start/SP$start\_$i.foma > /mnt/data/SP_data/SP$start/SP$start\_$i.dat
 	done
 done
