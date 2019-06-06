@@ -7,10 +7,7 @@ import re
 def main():
 	dirPath = "/mnt/data/SP_data"
 
-	# lang = "SP2"
-	# datasets = [[2,20],[21,100],[101,200],[201,500]]
-
-	lang = "SP4"
+	lang = "SP2"
 	datasets = [[4,20],[21,100],[101,200],[201,500]]
 
 	for dr in datasets:

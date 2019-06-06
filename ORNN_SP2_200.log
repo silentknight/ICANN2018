@@ -1,0 +1,450 @@
+Epoch 0 :
+    cost = 1.89365411115
+    accuracy = 0.408382096975
+    perplexity = 5.11934803701
+VALIDATION:
+    cost_v = 1.44238373442
+    accuracy_v = 0.420139964616
+    perplexity_v = 2.71784156268
+Epoch 1 :
+    cost = 1.41914435321
+    accuracy = 0.416833388691
+    perplexity = 2.67442004202
+VALIDATION:
+    cost_v = 1.41050413676
+    accuracy_v = 0.411255050294
+    perplexity_v = 2.6584142834
+Epoch 2 :
+    cost = 1.40025968417
+    accuracy = 0.416528001175
+    perplexity = 2.63960259999
+VALIDATION:
+    cost_v = 1.3942564114
+    accuracy_v = 0.413682585985
+    perplexity_v = 2.62864423167
+Epoch 3 :
+    cost = 1.38843957597
+    accuracy = 0.41641751942
+    perplexity = 2.61807523318
+VALIDATION:
+    cost_v = 1.3835777751
+    accuracy_v = 0.418824869626
+    perplexity_v = 2.60924795144
+Epoch 4 :
+    cost = 1.37951212396
+    accuracy = 0.416673904151
+    perplexity = 2.60191561519
+VALIDATION:
+    cost_v = 1.37948403928
+    accuracy_v = 0.409940355326
+    perplexity_v = 2.60185671487
+Epoch 5 :
+    cost = 1.37277565908
+    accuracy = 0.416772728212
+    perplexity = 2.58979906098
+VALIDATION:
+    cost_v = 1.37148332726
+    accuracy_v = 0.419637738308
+    perplexity_v = 2.5874948084
+Epoch 6 :
+    cost = 1.36694370696
+    accuracy = 0.417158852274
+    perplexity = 2.57936218149
+VALIDATION:
+    cost_v = 1.36430977389
+    accuracy_v = 0.418687956347
+    perplexity_v = 2.5746436461
+Epoch 7 :
+    cost = 1.36109410127
+    accuracy = 0.417592763996
+    perplexity = 2.56890768442
+VALIDATION:
+    cost_v = 1.35855351826
+    accuracy_v = 0.419211283822
+    perplexity_v = 2.56439660891
+Epoch 8 :
+    cost = 1.35324175423
+    accuracy = 0.418017329785
+    perplexity = 2.55497120229
+VALIDATION:
+    cost_v = 1.34860090557
+    accuracy_v = 0.41872677296
+    perplexity_v = 2.54675437962
+Epoch 9 :
+    cost = 1.33850796262
+    accuracy = 0.418297412704
+    perplexity = 2.5290137239
+VALIDATION:
+    cost_v = 1.33067540513
+    accuracy_v = 0.419207925393
+    perplexity_v = 2.51529585107
+Epoch 10 :
+    cost = 1.32535277564
+    accuracy = 0.418526067326
+    perplexity = 2.50604907109
+VALIDATION:
+    cost_v = 1.32303209643
+    accuracy_v = 0.416691256969
+    perplexity_v = 2.50203131317
+Epoch 11 :
+    cost = 1.31917694386
+    accuracy = 0.418910281789
+    perplexity = 2.49533581364
+VALIDATION:
+    cost_v = 1.31685844826
+    accuracy_v = 0.416952346751
+    perplexity_v = 2.49132495814
+Epoch 12 :
+    cost = 1.31661349704
+    accuracy = 0.41915796464
+    perplexity = 2.49091413328
+VALIDATION:
+    cost_v = 1.31558967274
+    accuracy_v = 0.418271747221
+    perplexity_v = 2.48912893762
+Epoch 13 :
+    cost = 1.31536370268
+    accuracy = 0.419268245986
+    perplexity = 2.48875113479
+VALIDATION:
+    cost_v = 1.31354916292
+    accuracy_v = 0.417255614361
+    perplexity_v = 2.48561205976
+Epoch 14 :
+    cost = 1.31452847163
+    accuracy = 0.419498351492
+    perplexity = 2.48731832162
+VALIDATION:
+    cost_v = 1.31403960019
+    accuracy_v = 0.420967803752
+    perplexity_v = 2.48647077616
+Epoch 15 :
+    cost = 1.3139302451
+    accuracy = 0.419599673986
+    perplexity = 2.48628515236
+VALIDATION:
+    cost_v = 1.31514037818
+    accuracy_v = 0.417302951022
+    perplexity_v = 2.48836025708
+Epoch 16 :
+    cost = 1.31343372852
+    accuracy = 0.419638706161
+    perplexity = 2.48542148155
+VALIDATION:
+    cost_v = 1.31573619966
+    accuracy_v = 0.42157215261
+    perplexity_v = 2.4893846976
+Epoch 17 :
+    cost = 1.3130258346
+    accuracy = 0.419720105106
+    perplexity = 2.48471915953
+VALIDATION:
+    cost_v = 1.31335335636
+    accuracy_v = 0.415959441203
+    perplexity_v = 2.48531708363
+Epoch 18 :
+    cost = 1.31267159584
+    accuracy = 0.419801072659
+    perplexity = 2.4841069285
+VALIDATION:
+    cost_v = 1.31373048916
+    accuracy_v = 0.421739057874
+    perplexity_v = 2.48593151387
+Epoch 19 :
+    cost = 1.31234315142
+    accuracy = 0.41981699886
+    perplexity = 2.48355530038
+VALIDATION:
+    cost_v = 1.31467847618
+    accuracy_v = 0.415706653921
+    perplexity_v = 2.4875815361
+Epoch 20 :
+    cost = 1.31201851953
+    accuracy = 0.419883902903
+    perplexity = 2.4829903519
+VALIDATION:
+    cost_v = 1.31220578834
+    accuracy_v = 0.417528706219
+    perplexity_v = 2.48330110542
+Epoch 21 :
+    cost = 1.31171445109
+    accuracy = 0.419844354181
+    perplexity = 2.48246414326
+VALIDATION:
+    cost_v = 1.31103032934
+    accuracy_v = 0.419136091906
+    perplexity_v = 2.48128141925
+Epoch 22 :
+    cost = 1.31139900113
+    accuracy = 0.419951684523
+    perplexity = 2.48192015278
+VALIDATION:
+    cost_v = 1.31000843592
+    accuracy_v = 0.420287026909
+    perplexity_v = 2.47952606009
+Epoch 23 :
+    cost = 1.31115256217
+    accuracy = 0.419884624628
+    perplexity = 2.48149429343
+VALIDATION:
+    cost_v = 1.31085217845
+    accuracy_v = 0.416272782307
+    perplexity_v = 2.48096745314
+Epoch 24 :
+    cost = 1.31085352669
+    accuracy = 0.420002914505
+    perplexity = 2.48098331216
+VALIDATION:
+    cost_v = 1.30999121994
+    accuracy_v = 0.421718419102
+    perplexity_v = 2.4794895778
+Epoch 25 :
+    cost = 1.31058262701
+    accuracy = 0.419994005966
+    perplexity = 2.48051835033
+VALIDATION:
+    cost_v = 1.31819701834
+    accuracy_v = 0.42194154542
+    perplexity_v = 2.49364066371
+Epoch 26 :
+    cost = 1.31034119521
+    accuracy = 0.420011499222
+    perplexity = 2.48010441807
+VALIDATION:
+    cost_v = 1.31092702753
+    accuracy_v = 0.421834376749
+    perplexity_v = 2.48110117672
+Epoch 27 :
+    cost = 1.31011732551
+    accuracy = 0.420000604865
+    perplexity = 2.47971960091
+VALIDATION:
+    cost_v = 1.3095115446
+    accuracy_v = 0.416615455057
+    perplexity_v = 2.47865921051
+Epoch 28 :
+    cost = 1.30987127899
+    accuracy = 0.420017461832
+    perplexity = 2.47928844115
+VALIDATION:
+    cost_v = 1.3104634821
+    accuracy_v = 0.415462055826
+    perplexity_v = 2.48031753985
+Epoch 29 :
+    cost = 1.30964997626
+    accuracy = 0.419892728007
+    perplexity = 2.47890871903
+VALIDATION:
+    cost_v = 1.31515078687
+    accuracy_v = 0.416656612497
+    perplexity_v = 2.48839601131
+Epoch 30 :
+    cost = 1.3094428232
+    accuracy = 0.420070879742
+    perplexity = 2.47856203037
+VALIDATION:
+    cost_v = 1.30918374587
+    accuracy_v = 0.415719743727
+    perplexity_v = 2.47811465989
+Epoch 31 :
+    cost = 1.30922277441
+    accuracy = 0.420011378625
+    perplexity = 2.47819005587
+VALIDATION:
+    cost_v = 1.30901073905
+    accuracy_v = 0.418782491652
+    perplexity_v = 2.47781637901
+Epoch 32 :
+    cost = 1.30908556102
+    accuracy = 0.419961536935
+    perplexity = 2.47794962189
+VALIDATION:
+    cost_v = 1.3119535553
+    accuracy_v = 0.421834716933
+    perplexity_v = 2.48287530725
+Epoch 33 :
+    cost = 1.30890096937
+    accuracy = 0.420015499589
+    perplexity = 2.47762617035
+VALIDATION:
+    cost_v = 1.30809741036
+    accuracy_v = 0.41968836404
+    perplexity_v = 2.4762478398
+Epoch 34 :
+    cost = 1.30874912786
+    accuracy = 0.419975498051
+    perplexity = 2.47735986352
+VALIDATION:
+    cost_v = 1.30723067455
+    accuracy_v = 0.420332028729
+    perplexity_v = 2.47476354139
+Epoch 35 :
+    cost = 1.30861308989
+    accuracy = 0.419956728066
+    perplexity = 2.4771346793
+VALIDATION:
+    cost_v = 1.30750814014
+    accuracy_v = 0.419502851851
+    perplexity_v = 2.47522898692
+Epoch 36 :
+    cost = 1.30847051798
+    accuracy = 0.419933829307
+    perplexity = 2.4768970484
+VALIDATION:
+    cost_v = 1.31018997197
+    accuracy_v = 0.422041711613
+    perplexity_v = 2.47984298935
+Epoch 37 :
+    cost = 1.30835330387
+    accuracy = 0.419968513861
+    perplexity = 2.47668462556
+VALIDATION:
+    cost_v = 1.31047266605
+    accuracy_v = 0.418744561521
+    perplexity_v = 2.48033032731
+Epoch 38 :
+    cost = 1.30824160773
+    accuracy = 0.419862998251
+    perplexity = 2.47649427672
+VALIDATION:
+    cost_v = 1.30962743684
+    accuracy_v = 0.421967568487
+    perplexity_v = 2.47886960235
+Epoch 39 :
+    cost = 1.30811760346
+    accuracy = 0.419916994497
+    perplexity = 2.47627828121
+VALIDATION:
+    cost_v = 1.30738459051
+    accuracy_v = 0.419615516488
+    perplexity_v = 2.4750300545
+Epoch 40 :
+    cost = 1.30803000113
+    accuracy = 0.419926474984
+    perplexity = 2.4761272563
+VALIDATION:
+    cost_v = 1.30724864257
+    accuracy_v = 0.421389395381
+    perplexity_v = 2.47479345635
+Epoch 41 :
+    cost = 1.30793380955
+    accuracy = 0.419917998071
+    perplexity = 2.4759686417
+VALIDATION:
+    cost_v = 1.30677528003
+    accuracy_v = 0.419108874922
+    perplexity_v = 2.47397412196
+Epoch 42 :
+    cost = 1.30782661702
+    accuracy = 0.419957207937
+    perplexity = 2.47577978196
+VALIDATION:
+    cost_v = 1.31205345132
+    accuracy_v = 0.416760643115
+    perplexity_v = 2.48305507271
+Epoch 43 :
+    cost = 1.30775782108
+    accuracy = 0.419976822359
+    perplexity = 2.47566570741
+VALIDATION:
+    cost_v = 1.30946288952
+    accuracy_v = 0.421847432331
+    perplexity_v = 2.47859404002
+Epoch 44 :
+    cost = 1.30766225934
+    accuracy = 0.419959551965
+    perplexity = 2.47550173483
+VALIDATION:
+    cost_v = 1.31027059076
+    accuracy_v = 0.417093937342
+    perplexity_v = 2.47996900913
+Epoch 45 :
+    cost = 1.30762596063
+    accuracy = 0.419886835538
+    perplexity = 2.47545142635
+VALIDATION:
+    cost_v = 1.30795489276
+    accuracy_v = 0.419898518881
+    perplexity_v = 2.47601405663
+Epoch 46 :
+    cost = 1.30750647451
+    accuracy = 0.41995624475
+    perplexity = 2.47523960049
+VALIDATION:
+    cost_v = 1.31076581066
+    accuracy_v = 0.421891281797
+    perplexity_v = 2.48082144773
+Epoch 47 :
+    cost = 1.30747704788
+    accuracy = 0.419880386625
+    perplexity = 2.47518698246
+VALIDATION:
+    cost_v = 1.30680038469
+    accuracy_v = 0.417454316349
+    perplexity_v = 2.47402803243
+Epoch 48 :
+    cost = 1.3074058747
+    accuracy = 0.419810338286
+    perplexity = 2.47506149914
+VALIDATION:
+    cost_v = 1.30963634563
+    accuracy_v = 0.41737375748
+    perplexity_v = 2.47889931714
+Epoch 49 :
+    cost = 1.30736503016
+    accuracy = 0.419821098742
+    perplexity = 2.47500564889
+VALIDATION:
+    cost_v = 1.31208873376
+    accuracy_v = 0.413853936359
+    perplexity_v = 2.48311660366
+Epoch 50 :
+    cost = 1.30731165877
+    accuracy = 0.419810861226
+    perplexity = 2.4749040269
+VALIDATION:
+    cost_v = 1.31003460876
+    accuracy_v = 0.420849993923
+    perplexity_v = 2.47957794647
+Epoch 51 :
+    cost = 1.30725329358
+    accuracy = 0.419895217995
+    perplexity = 2.47479973842
+VALIDATION:
+    cost_v = 1.30734433151
+    accuracy_v = 0.417261031967
+    perplexity_v = 2.47495366409
+Epoch 52 :
+    cost = 1.30717465182
+    accuracy = 0.419921343916
+    perplexity = 2.47467385815
+VALIDATION:
+    cost_v = 1.31364328833
+    accuracy_v = 0.415110395563
+    perplexity_v = 2.48579176104
+Epoch 53 :
+    cost = 1.3070988847
+    accuracy = 0.419939237717
+    perplexity = 2.47452749653
+VALIDATION:
+    cost_v = 1.30777052568
+    accuracy_v = 0.42206314789
+    perplexity_v = 2.47569049806
+Epoch 54 :
+    cost = 1.30711176284
+    accuracy = 0.419820109824
+    perplexity = 2.47455736905
+VALIDATION:
+    cost_v = 1.31089232095
+    accuracy_v = 0.421971392035
+    perplexity_v = 2.48104969733
+
+COMPUTING TEST SET METRICS
+Test results on final weights:
+    cost_test = 1.30926286687
+    accuracy_test = 0.422551650897
+    perplexity_test = 2.47825890125
+Test results on best weights:
+    cost_test = 1.30616054184
+    accuracy_test = 0.42265365071
+    perplexity_test = 2.47292404444

@@ -1,0 +1,716 @@
+Epoch: 1 Learning rate: 1.000
+0.001 perplexity: 249.391 speed: 14954 wps
+0.101 perplexity: 46.830 speed: 37004 wps
+0.201 perplexity: 45.527 speed: 37695 wps
+0.301 perplexity: 45.139 speed: 38113 wps
+0.401 perplexity: 44.889 speed: 38400 wps
+0.501 perplexity: 44.927 speed: 38407 wps
+0.601 perplexity: 44.863 speed: 38462 wps
+0.701 perplexity: 44.753 speed: 38473 wps
+0.801 perplexity: 44.578 speed: 38493 wps
+0.901 perplexity: 44.415 speed: 38460 wps
+Epoch: 1 Train Perplexity: 44.438
+Epoch: 1 Valid Perplexity: 28.630
+Epoch: 2 Learning rate: 1.000
+0.001 perplexity: 43.375 speed: 31353 wps
+0.101 perplexity: 44.553 speed: 37965 wps
+0.201 perplexity: 44.332 speed: 38470 wps
+0.301 perplexity: 44.308 speed: 38684 wps
+0.401 perplexity: 44.189 speed: 38452 wps
+0.501 perplexity: 44.096 speed: 38621 wps
+0.601 perplexity: 44.151 speed: 38557 wps
+0.701 perplexity: 44.032 speed: 38556 wps
+0.801 perplexity: 44.011 speed: 38742 wps
+0.901 perplexity: 44.047 speed: 38783 wps
+Epoch: 2 Train Perplexity: 44.082
+Epoch: 2 Valid Perplexity: 24.061
+Epoch: 3 Learning rate: 1.000
+0.001 perplexity: 44.138 speed: 32494 wps
+0.101 perplexity: 43.803 speed: 38868 wps
+0.201 perplexity: 43.865 speed: 37635 wps
+0.301 perplexity: 43.897 speed: 37786 wps
+0.401 perplexity: 43.886 speed: 37887 wps
+0.501 perplexity: 43.945 speed: 37859 wps
+0.601 perplexity: 44.012 speed: 37889 wps
+0.701 perplexity: 43.793 speed: 37876 wps
+0.801 perplexity: 43.872 speed: 37923 wps
+0.901 perplexity: 43.904 speed: 37925 wps
+Epoch: 3 Train Perplexity: 43.886
+Epoch: 3 Valid Perplexity: 26.871
+Epoch: 4 Learning rate: 1.000
+0.001 perplexity: 43.900 speed: 33307 wps
+0.101 perplexity: 44.671 speed: 38981 wps
+0.201 perplexity: 44.427 speed: 38297 wps
+0.301 perplexity: 44.331 speed: 38469 wps
+0.401 perplexity: 44.313 speed: 38204 wps
+0.501 perplexity: 44.183 speed: 38276 wps
+0.601 perplexity: 44.118 speed: 38190 wps
+0.701 perplexity: 44.085 speed: 38119 wps
+0.801 perplexity: 44.004 speed: 38193 wps
+0.901 perplexity: 44.032 speed: 38132 wps
+Epoch: 4 Train Perplexity: 43.989
+Epoch: 4 Valid Perplexity: 75.780
+Epoch: 5 Learning rate: 1.000
+0.001 perplexity: 52.903 speed: 36307 wps
+0.101 perplexity: 45.435 speed: 38078 wps
+0.201 perplexity: 44.611 speed: 38310 wps
+0.301 perplexity: 44.441 speed: 38682 wps
+0.401 perplexity: 44.563 speed: 38577 wps
+0.501 perplexity: 44.427 speed: 38563 wps
+0.601 perplexity: 44.295 speed: 38467 wps
+0.701 perplexity: 44.268 speed: 38417 wps
+0.801 perplexity: 44.242 speed: 38236 wps
+0.901 perplexity: 44.226 speed: 38296 wps
+Epoch: 5 Train Perplexity: 44.268
+Epoch: 5 Valid Perplexity: 24.076
+Epoch: 6 Learning rate: 1.000
+0.001 perplexity: 43.637 speed: 38000 wps
+0.101 perplexity: 44.185 speed: 38518 wps
+0.201 perplexity: 44.409 speed: 38196 wps
+0.301 perplexity: 44.425 speed: 37756 wps
+0.401 perplexity: 44.380 speed: 37605 wps
+0.501 perplexity: 44.217 speed: 37647 wps
+0.601 perplexity: 44.140 speed: 37916 wps
+0.701 perplexity: 44.091 speed: 37953 wps
+0.801 perplexity: 44.029 speed: 38118 wps
+0.901 perplexity: 44.105 speed: 38096 wps
+Epoch: 6 Train Perplexity: 44.031
+Epoch: 6 Valid Perplexity: 100.348
+Epoch: 7 Learning rate: 1.000
+0.001 perplexity: 49.052 speed: 31845 wps
+0.101 perplexity: 44.420 speed: 37803 wps
+0.201 perplexity: 44.024 speed: 38344 wps
+0.301 perplexity: 44.066 speed: 37925 wps
+0.401 perplexity: 44.056 speed: 37963 wps
+0.501 perplexity: 44.172 speed: 37989 wps
+0.601 perplexity: 44.222 speed: 38151 wps
+0.701 perplexity: 44.124 speed: 38034 wps
+0.801 perplexity: 44.001 speed: 38101 wps
+0.901 perplexity: 43.986 speed: 38261 wps
+Epoch: 7 Train Perplexity: 43.960
+Epoch: 7 Valid Perplexity: 23.616
+Epoch: 8 Learning rate: 1.000
+0.001 perplexity: 39.574 speed: 43692 wps
+0.101 perplexity: 43.912 speed: 37047 wps
+0.201 perplexity: 43.471 speed: 37752 wps
+0.301 perplexity: 43.544 speed: 38188 wps
+0.401 perplexity: 43.566 speed: 37942 wps
+0.501 perplexity: 43.629 speed: 37940 wps
+0.601 perplexity: 43.660 speed: 38161 wps
+0.701 perplexity: 43.643 speed: 38134 wps
+0.801 perplexity: 43.645 speed: 38132 wps
+0.901 perplexity: 43.733 speed: 38150 wps
+Epoch: 8 Train Perplexity: 43.715
+Epoch: 8 Valid Perplexity: 73.145
+Epoch: 9 Learning rate: 1.000
+0.001 perplexity: 52.957 speed: 33784 wps
+0.101 perplexity: 44.745 speed: 39709 wps
+0.201 perplexity: 44.301 speed: 38680 wps
+0.301 perplexity: 44.359 speed: 38648 wps
+0.401 perplexity: 44.386 speed: 38894 wps
+0.501 perplexity: 44.379 speed: 38663 wps
+0.601 perplexity: 44.297 speed: 38618 wps
+0.701 perplexity: 44.221 speed: 38634 wps
+0.801 perplexity: 44.118 speed: 38416 wps
+0.901 perplexity: 44.170 speed: 38401 wps
+Epoch: 9 Train Perplexity: 44.163
+Epoch: 9 Valid Perplexity: 24.922
+Epoch: 10 Learning rate: 1.000
+0.001 perplexity: 46.230 speed: 33637 wps
+0.101 perplexity: 43.945 speed: 37576 wps
+0.201 perplexity: 44.170 speed: 38385 wps
+0.301 perplexity: 43.964 speed: 38243 wps
+0.401 perplexity: 43.878 speed: 38138 wps
+0.501 perplexity: 43.853 speed: 38312 wps
+0.601 perplexity: 43.860 speed: 38328 wps
+0.701 perplexity: 43.878 speed: 38141 wps
+0.801 perplexity: 43.737 speed: 38117 wps
+0.901 perplexity: 43.858 speed: 37964 wps
+Epoch: 10 Train Perplexity: 43.865
+Epoch: 10 Valid Perplexity: 75.623
+Epoch: 11 Learning rate: 1.000
+0.001 perplexity: 50.481 speed: 38518 wps
+0.101 perplexity: 43.507 speed: 37572 wps
+0.201 perplexity: 43.333 speed: 37447 wps
+0.301 perplexity: 43.697 speed: 37328 wps
+0.401 perplexity: 43.901 speed: 37163 wps
+0.501 perplexity: 43.954 speed: 37227 wps
+0.601 perplexity: 43.925 speed: 37411 wps
+0.701 perplexity: 43.848 speed: 37519 wps
+0.801 perplexity: 43.847 speed: 37500 wps
+0.901 perplexity: 43.931 speed: 37450 wps
+Epoch: 11 Train Perplexity: 43.967
+Epoch: 11 Valid Perplexity: 20.996
+Epoch: 12 Learning rate: 1.000
+0.001 perplexity: 43.203 speed: 32467 wps
+0.101 perplexity: 44.108 speed: 39967 wps
+0.201 perplexity: 44.096 speed: 38774 wps
+0.301 perplexity: 43.911 speed: 38826 wps
+0.401 perplexity: 43.898 speed: 38835 wps
+0.501 perplexity: 43.985 speed: 38822 wps
+0.601 perplexity: 43.923 speed: 38757 wps
+0.701 perplexity: 43.901 speed: 38461 wps
+0.801 perplexity: 43.923 speed: 38438 wps
+0.901 perplexity: 43.973 speed: 38407 wps
+Epoch: 12 Train Perplexity: 43.969
+Epoch: 12 Valid Perplexity: 76.621
+Epoch: 13 Learning rate: 1.000
+0.001 perplexity: 48.676 speed: 31825 wps
+0.101 perplexity: 44.754 speed: 37169 wps
+0.201 perplexity: 44.349 speed: 37770 wps
+0.301 perplexity: 44.506 speed: 37671 wps
+0.401 perplexity: 44.556 speed: 38039 wps
+0.501 perplexity: 44.643 speed: 38419 wps
+0.601 perplexity: 44.570 speed: 38348 wps
+0.701 perplexity: 44.483 speed: 38262 wps
+0.801 perplexity: 44.330 speed: 38363 wps
+0.901 perplexity: 44.289 speed: 38185 wps
+Epoch: 13 Train Perplexity: 44.220
+Epoch: 13 Valid Perplexity: 76.733
+Epoch: 14 Learning rate: 1.000
+0.001 perplexity: 52.593 speed: 32493 wps
+0.101 perplexity: 44.267 speed: 39165 wps
+0.201 perplexity: 43.757 speed: 38791 wps
+0.301 perplexity: 43.771 speed: 38007 wps
+0.401 perplexity: 43.926 speed: 38039 wps
+0.501 perplexity: 42.825 speed: 38184 wps
+0.601 perplexity: 35.058 speed: 38139 wps
+0.701 perplexity: 28.915 speed: 38251 wps
+0.801 perplexity: 24.798 speed: 38123 wps
+0.901 perplexity: 21.931 speed: 38179 wps
+Epoch: 14 Train Perplexity: 19.788
+Epoch: 14 Valid Perplexity: 5.798
+Epoch: 15 Learning rate: 0.870
+0.001 perplexity: 7.607 speed: 34922 wps
+0.101 perplexity: 7.070 speed: 37276 wps
+0.201 perplexity: 6.951 speed: 37745 wps
+0.301 perplexity: 6.858 speed: 37882 wps
+0.401 perplexity: 6.797 speed: 37976 wps
+0.501 perplexity: 6.740 speed: 38037 wps
+0.601 perplexity: 6.664 speed: 38140 wps
+0.701 perplexity: 6.602 speed: 38144 wps
+0.801 perplexity: 6.548 speed: 38048 wps
+0.901 perplexity: 6.497 speed: 37988 wps
+Epoch: 15 Train Perplexity: 6.448
+Epoch: 15 Valid Perplexity: 4.755
+Epoch: 16 Learning rate: 0.756
+0.001 perplexity: 6.329 speed: 38707 wps
+0.101 perplexity: 5.846 speed: 37972 wps
+0.201 perplexity: 5.813 speed: 37497 wps
+0.301 perplexity: 5.773 speed: 37643 wps
+0.401 perplexity: 5.758 speed: 37929 wps
+0.501 perplexity: 5.743 speed: 37767 wps
+0.601 perplexity: 5.703 speed: 37893 wps
+0.701 perplexity: 5.672 speed: 37860 wps
+0.801 perplexity: 5.648 speed: 37933 wps
+0.901 perplexity: 5.624 speed: 38008 wps
+Epoch: 16 Train Perplexity: 5.596
+Epoch: 16 Valid Perplexity: 4.311
+Epoch: 17 Learning rate: 0.658
+0.001 perplexity: 5.822 speed: 28335 wps
+0.101 perplexity: 5.303 speed: 38007 wps
+0.201 perplexity: 5.302 speed: 38344 wps
+0.301 perplexity: 5.272 speed: 38173 wps
+0.401 perplexity: 5.271 speed: 38139 wps
+0.501 perplexity: 5.269 speed: 38165 wps
+0.601 perplexity: 5.243 speed: 37922 wps
+0.701 perplexity: 5.224 speed: 37749 wps
+0.801 perplexity: 5.210 speed: 37775 wps
+0.901 perplexity: 5.193 speed: 37871 wps
+Epoch: 17 Train Perplexity: 5.173
+Epoch: 17 Valid Perplexity: 4.056
+Epoch: 18 Learning rate: 0.572
+0.001 perplexity: 5.351 speed: 38778 wps
+0.101 perplexity: 4.995 speed: 38444 wps
+0.201 perplexity: 5.005 speed: 38177 wps
+0.301 perplexity: 4.980 speed: 38488 wps
+0.401 perplexity: 4.983 speed: 38632 wps
+0.501 perplexity: 4.984 speed: 38277 wps
+0.601 perplexity: 4.963 speed: 38235 wps
+0.701 perplexity: 4.947 speed: 38298 wps
+0.801 perplexity: 4.937 speed: 38275 wps
+0.901 perplexity: 4.924 speed: 38172 wps
+Epoch: 18 Train Perplexity: 4.909
+Epoch: 18 Valid Perplexity: 3.891
+Epoch: 19 Learning rate: 0.497
+0.001 perplexity: 5.119 speed: 34755 wps
+0.101 perplexity: 4.784 speed: 36546 wps
+0.201 perplexity: 4.798 speed: 36609 wps
+0.301 perplexity: 4.779 speed: 37186 wps
+0.401 perplexity: 4.782 speed: 37462 wps
+0.501 perplexity: 4.785 speed: 37514 wps
+0.601 perplexity: 4.768 speed: 37556 wps
+0.701 perplexity: 4.754 speed: 37680 wps
+0.801 perplexity: 4.746 speed: 37712 wps
+0.901 perplexity: 4.734 speed: 37754 wps
+Epoch: 19 Train Perplexity: 4.722
+Epoch: 19 Valid Perplexity: 3.778
+Epoch: 20 Learning rate: 0.432
+0.001 perplexity: 4.889 speed: 43850 wps
+0.101 perplexity: 4.617 speed: 37800 wps
+0.201 perplexity: 4.638 speed: 37893 wps
+0.301 perplexity: 4.621 speed: 37999 wps
+0.401 perplexity: 4.628 speed: 37943 wps
+0.501 perplexity: 4.633 speed: 38157 wps
+0.601 perplexity: 4.619 speed: 37974 wps
+0.701 perplexity: 4.609 speed: 37984 wps
+0.801 perplexity: 4.603 speed: 38061 wps
+0.901 perplexity: 4.593 speed: 37997 wps
+Epoch: 20 Train Perplexity: 4.582
+Epoch: 20 Valid Perplexity: 3.692
+Epoch: 21 Learning rate: 0.376
+0.001 perplexity: 4.766 speed: 35170 wps
+0.101 perplexity: 4.492 speed: 38110 wps
+0.201 perplexity: 4.513 speed: 37834 wps
+0.301 perplexity: 4.499 speed: 37755 wps
+0.401 perplexity: 4.508 speed: 37905 wps
+0.501 perplexity: 4.514 speed: 37985 wps
+0.601 perplexity: 4.502 speed: 38003 wps
+0.701 perplexity: 4.493 speed: 37848 wps
+0.801 perplexity: 4.489 speed: 37921 wps
+0.901 perplexity: 4.480 speed: 37966 wps
+Epoch: 21 Train Perplexity: 4.470
+Epoch: 21 Valid Perplexity: 3.632
+Epoch: 22 Learning rate: 0.327
+0.001 perplexity: 4.691 speed: 33592 wps
+0.101 perplexity: 4.392 speed: 38927 wps
+0.201 perplexity: 4.421 speed: 39026 wps
+0.301 perplexity: 4.409 speed: 38451 wps
+0.401 perplexity: 4.417 speed: 38346 wps
+0.501 perplexity: 4.424 speed: 38529 wps
+0.601 perplexity: 4.412 speed: 38454 wps
+0.701 perplexity: 4.403 speed: 38432 wps
+0.801 perplexity: 4.400 speed: 38431 wps
+0.901 perplexity: 4.392 speed: 38421 wps
+Epoch: 22 Train Perplexity: 4.383
+Epoch: 22 Valid Perplexity: 3.584
+Epoch: 23 Learning rate: 0.284
+0.001 perplexity: 4.594 speed: 39112 wps
+0.101 perplexity: 4.323 speed: 37509 wps
+0.201 perplexity: 4.347 speed: 37615 wps
+0.301 perplexity: 4.333 speed: 37529 wps
+0.401 perplexity: 4.343 speed: 37683 wps
+0.501 perplexity: 4.350 speed: 37786 wps
+0.601 perplexity: 4.341 speed: 37872 wps
+0.701 perplexity: 4.333 speed: 37907 wps
+0.801 perplexity: 4.330 speed: 38056 wps
+0.901 perplexity: 4.322 speed: 38059 wps
+Epoch: 23 Train Perplexity: 4.314
+Epoch: 23 Valid Perplexity: 3.542
+Epoch: 24 Learning rate: 0.247
+0.001 perplexity: 4.578 speed: 27463 wps
+0.101 perplexity: 4.266 speed: 37340 wps
+0.201 perplexity: 4.286 speed: 37493 wps
+0.301 perplexity: 4.274 speed: 37470 wps
+0.401 perplexity: 4.283 speed: 37586 wps
+0.501 perplexity: 4.291 speed: 37664 wps
+0.601 perplexity: 4.281 speed: 37695 wps
+0.701 perplexity: 4.274 speed: 37570 wps
+0.801 perplexity: 4.273 speed: 37720 wps
+0.901 perplexity: 4.265 speed: 37769 wps
+Epoch: 24 Train Perplexity: 4.257
+Epoch: 24 Valid Perplexity: 3.514
+Epoch: 25 Learning rate: 0.215
+0.001 perplexity: 4.459 speed: 37339 wps
+0.101 perplexity: 4.206 speed: 37682 wps
+0.201 perplexity: 4.229 speed: 37510 wps
+0.301 perplexity: 4.221 speed: 37820 wps
+0.401 perplexity: 4.232 speed: 37858 wps
+0.501 perplexity: 4.239 speed: 38168 wps
+0.601 perplexity: 4.229 speed: 38265 wps
+0.701 perplexity: 4.223 speed: 38323 wps
+0.801 perplexity: 4.222 speed: 38424 wps
+0.901 perplexity: 4.215 speed: 38362 wps
+Epoch: 25 Train Perplexity: 4.207
+Epoch: 25 Valid Perplexity: 3.481
+Epoch: 26 Learning rate: 0.187
+0.001 perplexity: 4.400 speed: 39148 wps
+0.101 perplexity: 4.166 speed: 38082 wps
+0.201 perplexity: 4.190 speed: 37747 wps
+0.301 perplexity: 4.178 speed: 37854 wps
+0.401 perplexity: 4.189 speed: 37642 wps
+0.501 perplexity: 4.196 speed: 37755 wps
+0.601 perplexity: 4.187 speed: 37795 wps
+0.701 perplexity: 4.182 speed: 37826 wps
+0.801 perplexity: 4.181 speed: 37815 wps
+0.901 perplexity: 4.175 speed: 37799 wps
+Epoch: 26 Train Perplexity: 4.167
+Epoch: 26 Valid Perplexity: 3.461
+Epoch: 27 Learning rate: 0.163
+0.001 perplexity: 4.358 speed: 45757 wps
+0.101 perplexity: 4.120 speed: 37531 wps
+0.201 perplexity: 4.150 speed: 37411 wps
+0.301 perplexity: 4.141 speed: 37788 wps
+0.401 perplexity: 4.150 speed: 37625 wps
+0.501 perplexity: 4.158 speed: 37742 wps
+0.601 perplexity: 4.149 speed: 37792 wps
+0.701 perplexity: 4.144 speed: 37888 wps
+0.801 perplexity: 4.144 speed: 38146 wps
+0.901 perplexity: 4.138 speed: 38164 wps
+Epoch: 27 Train Perplexity: 4.131
+Epoch: 27 Valid Perplexity: 3.435
+Epoch: 28 Learning rate: 0.141
+0.001 perplexity: 4.364 speed: 32412 wps
+0.101 perplexity: 4.096 speed: 37767 wps
+0.201 perplexity: 4.118 speed: 38008 wps
+0.301 perplexity: 4.108 speed: 38025 wps
+0.401 perplexity: 4.119 speed: 37931 wps
+0.501 perplexity: 4.128 speed: 37912 wps
+0.601 perplexity: 4.119 speed: 37911 wps
+0.701 perplexity: 4.114 speed: 37723 wps
+0.801 perplexity: 4.114 speed: 37897 wps
+0.901 perplexity: 4.108 speed: 37838 wps
+Epoch: 28 Train Perplexity: 4.100
+Epoch: 28 Valid Perplexity: 3.420
+Epoch: 29 Learning rate: 0.123
+0.001 perplexity: 4.284 speed: 37318 wps
+0.101 perplexity: 4.062 speed: 37184 wps
+0.201 perplexity: 4.093 speed: 38015 wps
+0.301 perplexity: 4.085 speed: 38101 wps
+0.401 perplexity: 4.095 speed: 37979 wps
+0.501 perplexity: 4.104 speed: 37894 wps
+0.601 perplexity: 4.095 speed: 37951 wps
+0.701 perplexity: 4.090 speed: 37999 wps
+0.801 perplexity: 4.089 speed: 38060 wps
+0.901 perplexity: 4.084 speed: 38053 wps
+Epoch: 29 Train Perplexity: 4.077
+Epoch: 29 Valid Perplexity: 3.404
+Epoch: 30 Learning rate: 0.107
+0.001 perplexity: 4.293 speed: 42720 wps
+0.101 perplexity: 4.036 speed: 38178 wps
+0.201 perplexity: 4.065 speed: 38472 wps
+0.301 perplexity: 4.058 speed: 38506 wps
+0.401 perplexity: 4.070 speed: 38263 wps
+0.501 perplexity: 4.078 speed: 38276 wps
+0.601 perplexity: 4.070 speed: 38227 wps
+0.701 perplexity: 4.065 speed: 38347 wps
+0.801 perplexity: 4.065 speed: 38134 wps
+0.901 perplexity: 4.059 speed: 38270 wps
+Epoch: 30 Train Perplexity: 4.053
+Epoch: 30 Valid Perplexity: 3.393
+Epoch: 31 Learning rate: 0.093
+0.001 perplexity: 4.283 speed: 29619 wps
+0.101 perplexity: 4.020 speed: 37695 wps
+0.201 perplexity: 4.051 speed: 37271 wps
+0.301 perplexity: 4.044 speed: 37556 wps
+0.401 perplexity: 4.054 speed: 38333 wps
+0.501 perplexity: 4.063 speed: 38293 wps
+0.601 perplexity: 4.054 speed: 38502 wps
+0.701 perplexity: 4.049 speed: 38504 wps
+0.801 perplexity: 4.048 speed: 38534 wps
+0.901 perplexity: 4.042 speed: 38468 wps
+Epoch: 31 Train Perplexity: 4.036
+Epoch: 31 Valid Perplexity: 3.381
+Epoch: 32 Learning rate: 0.081
+0.001 perplexity: 4.214 speed: 36780 wps
+0.101 perplexity: 3.997 speed: 38227 wps
+0.201 perplexity: 4.029 speed: 38614 wps
+0.301 perplexity: 4.021 speed: 38768 wps
+0.401 perplexity: 4.031 speed: 38855 wps
+0.501 perplexity: 4.040 speed: 38767 wps
+0.601 perplexity: 4.033 speed: 38510 wps
+0.701 perplexity: 4.028 speed: 38521 wps
+0.801 perplexity: 4.028 speed: 38411 wps
+0.901 perplexity: 4.022 speed: 38447 wps
+Epoch: 32 Train Perplexity: 4.015
+Epoch: 32 Valid Perplexity: 3.372
+Epoch: 33 Learning rate: 0.070
+0.001 perplexity: 4.152 speed: 42131 wps
+0.101 perplexity: 3.982 speed: 37433 wps
+0.201 perplexity: 4.015 speed: 36862 wps
+0.301 perplexity: 4.007 speed: 37574 wps
+0.401 perplexity: 4.018 speed: 37566 wps
+0.501 perplexity: 4.027 speed: 37562 wps
+0.601 perplexity: 4.019 speed: 37419 wps
+0.701 perplexity: 4.014 speed: 37465 wps
+0.801 perplexity: 4.014 speed: 37686 wps
+0.901 perplexity: 4.008 speed: 37615 wps
+Epoch: 33 Train Perplexity: 4.002
+Epoch: 33 Valid Perplexity: 3.362
+Epoch: 34 Learning rate: 0.061
+0.001 perplexity: 4.238 speed: 42844 wps
+0.101 perplexity: 3.971 speed: 38324 wps
+0.201 perplexity: 3.999 speed: 38542 wps
+0.301 perplexity: 3.994 speed: 38870 wps
+0.401 perplexity: 4.002 speed: 38739 wps
+0.501 perplexity: 4.012 speed: 38696 wps
+0.601 perplexity: 4.004 speed: 38468 wps
+0.701 perplexity: 4.000 speed: 38424 wps
+0.801 perplexity: 4.000 speed: 38312 wps
+0.901 perplexity: 3.994 speed: 38352 wps
+Epoch: 34 Train Perplexity: 3.988
+Epoch: 34 Valid Perplexity: 3.355
+Epoch: 35 Learning rate: 0.053
+0.001 perplexity: 4.172 speed: 43767 wps
+0.101 perplexity: 3.959 speed: 39564 wps
+0.201 perplexity: 3.989 speed: 38548 wps
+0.301 perplexity: 3.981 speed: 38816 wps
+0.401 perplexity: 3.992 speed: 38595 wps
+0.501 perplexity: 4.002 speed: 38655 wps
+0.601 perplexity: 3.995 speed: 38751 wps
+0.701 perplexity: 3.990 speed: 38803 wps
+0.801 perplexity: 3.990 speed: 38636 wps
+0.901 perplexity: 3.985 speed: 38704 wps
+Epoch: 35 Train Perplexity: 3.979
+Epoch: 35 Valid Perplexity: 3.349
+Epoch: 36 Learning rate: 0.046
+0.001 perplexity: 4.201 speed: 40918 wps
+0.101 perplexity: 3.950 speed: 38298 wps
+0.201 perplexity: 3.979 speed: 38315 wps
+0.301 perplexity: 3.972 speed: 38515 wps
+0.401 perplexity: 3.982 speed: 38476 wps
+0.501 perplexity: 3.992 speed: 38159 wps
+0.601 perplexity: 3.983 speed: 38202 wps
+0.701 perplexity: 3.979 speed: 38128 wps
+0.801 perplexity: 3.980 speed: 38095 wps
+0.901 perplexity: 3.975 speed: 38232 wps
+Epoch: 36 Train Perplexity: 3.969
+Epoch: 36 Valid Perplexity: 3.342
+Epoch: 37 Learning rate: 0.040
+0.001 perplexity: 4.215 speed: 24899 wps
+0.101 perplexity: 3.937 speed: 38130 wps
+0.201 perplexity: 3.969 speed: 38041 wps
+0.301 perplexity: 3.962 speed: 37878 wps
+0.401 perplexity: 3.973 speed: 38300 wps
+0.501 perplexity: 3.983 speed: 38214 wps
+0.601 perplexity: 3.976 speed: 38150 wps
+0.701 perplexity: 3.971 speed: 38059 wps
+0.801 perplexity: 3.972 speed: 38206 wps
+0.901 perplexity: 3.966 speed: 38217 wps
+Epoch: 37 Train Perplexity: 3.960
+Epoch: 37 Valid Perplexity: 3.337
+Epoch: 38 Learning rate: 0.035
+0.001 perplexity: 4.183 speed: 41020 wps
+0.101 perplexity: 3.930 speed: 37667 wps
+0.201 perplexity: 3.961 speed: 37511 wps
+0.301 perplexity: 3.955 speed: 37843 wps
+0.401 perplexity: 3.965 speed: 37983 wps
+0.501 perplexity: 3.976 speed: 38138 wps
+0.601 perplexity: 3.968 speed: 37910 wps
+0.701 perplexity: 3.964 speed: 37989 wps
+0.801 perplexity: 3.964 speed: 38016 wps
+0.901 perplexity: 3.959 speed: 37951 wps
+Epoch: 38 Train Perplexity: 3.953
+Epoch: 38 Valid Perplexity: 3.333
+Epoch: 39 Learning rate: 0.030
+0.001 perplexity: 4.183 speed: 26951 wps
+0.101 perplexity: 3.926 speed: 37605 wps
+0.201 perplexity: 3.960 speed: 38108 wps
+0.301 perplexity: 3.952 speed: 37750 wps
+0.401 perplexity: 3.962 speed: 38072 wps
+0.501 perplexity: 3.969 speed: 37938 wps
+0.601 perplexity: 3.962 speed: 37883 wps
+0.701 perplexity: 3.958 speed: 37707 wps
+0.801 perplexity: 3.959 speed: 37775 wps
+0.901 perplexity: 3.953 speed: 37664 wps
+Epoch: 39 Train Perplexity: 3.947
+Epoch: 39 Valid Perplexity: 3.330
+Epoch: 40 Learning rate: 0.026
+0.001 perplexity: 4.185 speed: 32701 wps
+0.101 perplexity: 3.924 speed: 37805 wps
+0.201 perplexity: 3.952 speed: 37650 wps
+0.301 perplexity: 3.945 speed: 37873 wps
+0.401 perplexity: 3.956 speed: 37879 wps
+0.501 perplexity: 3.965 speed: 37898 wps
+0.601 perplexity: 3.958 speed: 38016 wps
+0.701 perplexity: 3.953 speed: 37992 wps
+0.801 perplexity: 3.953 speed: 38167 wps
+0.901 perplexity: 3.948 speed: 38424 wps
+Epoch: 40 Train Perplexity: 3.942
+Epoch: 40 Valid Perplexity: 3.327
+Epoch: 41 Learning rate: 0.023
+0.001 perplexity: 4.140 speed: 31146 wps
+0.101 perplexity: 3.917 speed: 37446 wps
+0.201 perplexity: 3.947 speed: 38523 wps
+0.301 perplexity: 3.941 speed: 38260 wps
+0.401 perplexity: 3.951 speed: 38044 wps
+0.501 perplexity: 3.959 speed: 38178 wps
+0.601 perplexity: 3.952 speed: 37995 wps
+0.701 perplexity: 3.947 speed: 38119 wps
+0.801 perplexity: 3.948 speed: 37952 wps
+0.901 perplexity: 3.943 speed: 38130 wps
+Epoch: 41 Train Perplexity: 3.937
+Epoch: 41 Valid Perplexity: 3.325
+Epoch: 42 Learning rate: 0.020
+0.001 perplexity: 4.163 speed: 36506 wps
+0.101 perplexity: 3.910 speed: 38615 wps
+0.201 perplexity: 3.943 speed: 38256 wps
+0.301 perplexity: 3.937 speed: 38552 wps
+0.401 perplexity: 3.948 speed: 38700 wps
+0.501 perplexity: 3.957 speed: 38539 wps
+0.601 perplexity: 3.949 speed: 38540 wps
+0.701 perplexity: 3.945 speed: 38405 wps
+0.801 perplexity: 3.946 speed: 38445 wps
+0.901 perplexity: 3.940 speed: 38471 wps
+Epoch: 42 Train Perplexity: 3.934
+Epoch: 42 Valid Perplexity: 3.322
+Epoch: 43 Learning rate: 0.017
+0.001 perplexity: 4.132 speed: 35544 wps
+0.101 perplexity: 3.902 speed: 37394 wps
+0.201 perplexity: 3.936 speed: 37605 wps
+0.301 perplexity: 3.929 speed: 37909 wps
+0.401 perplexity: 3.939 speed: 38102 wps
+0.501 perplexity: 3.949 speed: 38215 wps
+0.601 perplexity: 3.943 speed: 38187 wps
+0.701 perplexity: 3.938 speed: 38164 wps
+0.801 perplexity: 3.940 speed: 38245 wps
+0.901 perplexity: 3.935 speed: 38136 wps
+Epoch: 43 Train Perplexity: 3.929
+Epoch: 43 Valid Perplexity: 3.319
+Epoch: 44 Learning rate: 0.015
+0.001 perplexity: 4.128 speed: 32818 wps
+0.101 perplexity: 3.906 speed: 38247 wps
+0.201 perplexity: 3.938 speed: 38667 wps
+0.301 perplexity: 3.930 speed: 37899 wps
+0.401 perplexity: 3.941 speed: 37989 wps
+0.501 perplexity: 3.949 speed: 37999 wps
+0.601 perplexity: 3.942 speed: 38020 wps
+0.701 perplexity: 3.938 speed: 37841 wps
+0.801 perplexity: 3.939 speed: 37752 wps
+0.901 perplexity: 3.934 speed: 37682 wps
+Epoch: 44 Train Perplexity: 3.928
+Epoch: 44 Valid Perplexity: 3.318
+Epoch: 45 Learning rate: 0.013
+0.001 perplexity: 4.187 speed: 35444 wps
+0.101 perplexity: 3.906 speed: 39511 wps
+0.201 perplexity: 3.932 speed: 38675 wps
+0.301 perplexity: 3.925 speed: 38312 wps
+0.401 perplexity: 3.935 speed: 38185 wps
+0.501 perplexity: 3.944 speed: 38150 wps
+0.601 perplexity: 3.937 speed: 38076 wps
+0.701 perplexity: 3.933 speed: 38095 wps
+0.801 perplexity: 3.933 speed: 38155 wps
+0.901 perplexity: 3.928 speed: 38171 wps
+Epoch: 45 Train Perplexity: 3.921
+Epoch: 45 Valid Perplexity: 3.317
+Epoch: 46 Learning rate: 0.011
+0.001 perplexity: 4.126 speed: 37566 wps
+0.101 perplexity: 3.901 speed: 37566 wps
+0.201 perplexity: 3.933 speed: 37862 wps
+0.301 perplexity: 3.925 speed: 38144 wps
+0.401 perplexity: 3.935 speed: 38174 wps
+0.501 perplexity: 3.944 speed: 38433 wps
+0.601 perplexity: 3.936 speed: 38252 wps
+0.701 perplexity: 3.932 speed: 38218 wps
+0.801 perplexity: 3.933 speed: 38052 wps
+0.901 perplexity: 3.927 speed: 37970 wps
+Epoch: 46 Train Perplexity: 3.921
+Epoch: 46 Valid Perplexity: 3.315
+Epoch: 47 Learning rate: 0.010
+0.001 perplexity: 4.141 speed: 31331 wps
+0.101 perplexity: 3.901 speed: 37571 wps
+0.201 perplexity: 3.932 speed: 37636 wps
+0.301 perplexity: 3.925 speed: 37777 wps
+0.401 perplexity: 3.935 speed: 38056 wps
+0.501 perplexity: 3.944 speed: 37977 wps
+0.601 perplexity: 3.936 speed: 38003 wps
+0.701 perplexity: 3.931 speed: 38087 wps
+0.801 perplexity: 3.931 speed: 38066 wps
+0.901 perplexity: 3.926 speed: 38106 wps
+Epoch: 47 Train Perplexity: 3.919
+Epoch: 47 Valid Perplexity: 3.313
+Epoch: 48 Learning rate: 0.009
+0.001 perplexity: 4.116 speed: 29506 wps
+0.101 perplexity: 3.898 speed: 37717 wps
+0.201 perplexity: 3.927 speed: 38304 wps
+0.301 perplexity: 3.919 speed: 38235 wps
+0.401 perplexity: 3.930 speed: 38141 wps
+0.501 perplexity: 3.940 speed: 38062 wps
+0.601 perplexity: 3.932 speed: 38259 wps
+0.701 perplexity: 3.927 speed: 38338 wps
+0.801 perplexity: 3.928 speed: 38309 wps
+0.901 perplexity: 3.923 speed: 38378 wps
+Epoch: 48 Train Perplexity: 3.917
+Epoch: 48 Valid Perplexity: 3.313
+Epoch: 49 Learning rate: 0.008
+0.001 perplexity: 4.164 speed: 41852 wps
+0.101 perplexity: 3.889 speed: 38679 wps
+0.201 perplexity: 3.923 speed: 37962 wps
+0.301 perplexity: 3.917 speed: 38366 wps
+0.401 perplexity: 3.926 speed: 38250 wps
+0.501 perplexity: 3.935 speed: 38360 wps
+0.601 perplexity: 3.927 speed: 38361 wps
+0.701 perplexity: 3.923 speed: 38439 wps
+0.801 perplexity: 3.923 speed: 38430 wps
+0.901 perplexity: 3.919 speed: 38395 wps
+Epoch: 49 Train Perplexity: 3.913
+Epoch: 49 Valid Perplexity: 3.312
+Epoch: 50 Learning rate: 0.007
+0.001 perplexity: 4.077 speed: 38122 wps
+0.101 perplexity: 3.893 speed: 38222 wps
+0.201 perplexity: 3.923 speed: 38086 wps
+0.301 perplexity: 3.916 speed: 37759 wps
+0.401 perplexity: 3.927 speed: 37885 wps
+0.501 perplexity: 3.935 speed: 37864 wps
+0.601 perplexity: 3.927 speed: 38019 wps
+0.701 perplexity: 3.923 speed: 38051 wps
+0.801 perplexity: 3.924 speed: 37996 wps
+0.901 perplexity: 3.919 speed: 37970 wps
+Epoch: 50 Train Perplexity: 3.914
+Epoch: 50 Valid Perplexity: 3.311
+Epoch: 51 Learning rate: 0.006
+0.001 perplexity: 4.101 speed: 29041 wps
+0.101 perplexity: 3.891 speed: 37827 wps
+0.201 perplexity: 3.923 speed: 38848 wps
+0.301 perplexity: 3.915 speed: 38518 wps
+0.401 perplexity: 3.925 speed: 38305 wps
+0.501 perplexity: 3.935 speed: 38287 wps
+0.601 perplexity: 3.927 speed: 38416 wps
+0.701 perplexity: 3.923 speed: 38437 wps
+0.801 perplexity: 3.924 speed: 38324 wps
+0.901 perplexity: 3.919 speed: 38360 wps
+Epoch: 51 Train Perplexity: 3.913
+Epoch: 51 Valid Perplexity: 3.310
+Epoch: 52 Learning rate: 0.005
+0.001 perplexity: 4.137 speed: 40346 wps
+0.101 perplexity: 3.891 speed: 38640 wps
+0.201 perplexity: 3.920 speed: 37999 wps
+0.301 perplexity: 3.914 speed: 37385 wps
+0.401 perplexity: 3.923 speed: 37426 wps
+0.501 perplexity: 3.932 speed: 37793 wps
+0.601 perplexity: 3.925 speed: 37725 wps
+0.701 perplexity: 3.921 speed: 37778 wps
+0.801 perplexity: 3.922 speed: 37811 wps
+0.901 perplexity: 3.917 speed: 37712 wps
+Epoch: 52 Train Perplexity: 3.911
+Epoch: 52 Valid Perplexity: 3.310
+Epoch: 53 Learning rate: 0.004
+0.001 perplexity: 4.112 speed: 32327 wps
+0.101 perplexity: 3.891 speed: 37429 wps
+0.201 perplexity: 3.922 speed: 38325 wps
+0.301 perplexity: 3.916 speed: 38130 wps
+0.401 perplexity: 3.924 speed: 37924 wps
+0.501 perplexity: 3.933 speed: 38121 wps
+0.601 perplexity: 3.926 speed: 38228 wps
+0.701 perplexity: 3.921 speed: 38326 wps
+0.801 perplexity: 3.922 speed: 38276 wps
+0.901 perplexity: 3.917 speed: 38249 wps
+Epoch: 53 Train Perplexity: 3.911
+Epoch: 53 Valid Perplexity: 3.309
+Epoch: 54 Learning rate: 0.004
+0.001 perplexity: 4.146 speed: 37340 wps
+0.101 perplexity: 3.885 speed: 37460 wps
+0.201 perplexity: 3.918 speed: 37637 wps
+0.301 perplexity: 3.912 speed: 37892 wps
+0.401 perplexity: 3.922 speed: 37879 wps
+0.501 perplexity: 3.931 speed: 38158 wps
+0.601 perplexity: 3.924 speed: 38148 wps
+0.701 perplexity: 3.920 speed: 38140 wps
+0.801 perplexity: 3.921 speed: 38310 wps
+0.901 perplexity: 3.916 speed: 38183 wps
+Epoch: 54 Train Perplexity: 3.910
+Epoch: 54 Valid Perplexity: 3.309
+Epoch: 55 Learning rate: 0.003
+0.001 perplexity: 4.122 speed: 38574 wps
+0.101 perplexity: 3.890 speed: 37041 wps
+0.201 perplexity: 3.920 speed: 37450 wps
+0.301 perplexity: 3.913 speed: 37543 wps
+0.401 perplexity: 3.922 speed: 37621 wps
+0.501 perplexity: 3.932 speed: 37551 wps
+0.601 perplexity: 3.925 speed: 37557 wps
+0.701 perplexity: 3.920 speed: 37700 wps
+0.801 perplexity: 3.921 speed: 37783 wps
+0.901 perplexity: 3.915 speed: 37820 wps
+Epoch: 55 Train Perplexity: 3.910
+Epoch: 55 Valid Perplexity: 3.309
+Test Perplexity: 3.222
