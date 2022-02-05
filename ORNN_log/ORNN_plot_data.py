@@ -20,8 +20,8 @@ with plt.style.context(('seaborn')):
 
     plt.tick_params(labelsize='large', width=5)
     plt.grid(True)
-    #plt.grid(which='major', linestyle='-.', linewidth='0.5', color='grey')
-    #plt.grid(which='minor', linestyle=':', linewidth='0.2', color='grey')
+    plt.grid(which='major', linestyle='-.', linewidth='0.5', color='grey')
+    plt.grid(which='minor', linestyle=':', linewidth='0.2', color='grey')
     ax = plt.axes()
     ax.set_xlim(1, len(y1))
     ax.set_xlabel('Number of Epochs', fontsize=15)
