@@ -12,11 +12,11 @@ y5 = np.array([42.4321422241,30.7374137611,24.6913149474,22.003735207,20.8540602
 
 # red dashes, blue squares and green triangles
 with plt.style.context(('seaborn')):
-    plt.plot(np.arange(1,len(y1)+1), y1, label='Dataset 1 Perplexity')
-    plt.plot(np.arange(1,len(y2)+1), y2, label='Dataset 2 Perplexity')
-    plt.plot(np.arange(1,len(y3)+1), y3, label='Dataset 3 Perplexity')
-    plt.plot(np.arange(1,len(y4)+1), y4, label='Dataset 4 Perplexity')
-    plt.plot(np.arange(1,len(y5)+1), y5, label='PTB Perplexity')
+    plt.loglog(np.arange(1,len(y1)+1), y1, label='Dataset 1 Perplexity')
+    plt.loglog(np.arange(1,len(y2)+1), y2, label='Dataset 2 Perplexity')
+    plt.loglog(np.arange(1,len(y3)+1), y3, label='Dataset 3 Perplexity')
+    plt.loglog(np.arange(1,len(y4)+1), y4, label='Dataset 4 Perplexity')
+    plt.loglog(np.arange(1,len(y5)+1), y5, label='PTB Perplexity')
 
     plt.tick_params(labelsize='large', width=5)
     plt.grid(True)
@@ -26,6 +26,6 @@ with plt.style.context(('seaborn')):
     ax.set_xlim(1, len(y1))
     ax.set_xlabel('Number of Epochs', fontsize=15)
     ax.set_ylabel('Perplexity in bpc', fontsize=15)
-    lgd = ax.legend(loc='upper right', shadow=True, fancybox=True, ncol=1, numpoints=1) 
+    lgd = ax.legend(loc='lower left', shadow=True, fancybox=True, ncol=1, numpoints=1, prop={'size': 12})
     plt.savefig('ornn_perplexity', bbox_extra_artists=(lgd,), bbox_inches='tight')
     plt.show()
