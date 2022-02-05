@@ -26,6 +26,6 @@ with plt.style.context(('seaborn')):
     ax.set_xlim(1, len(y1))
     ax.set_xlabel('Number of Epochs', fontsize=15)
     ax.set_ylabel('Perplexity in bpc', fontsize=15)
-    lgd = ax.legend(loc='upper right', shadow=True, fancybox=True, ncol=1, numpoints=1, prop={'size': 12})
+    lgd = ax.legend(loc='lower left', shadow=True, fancybox=True, ncol=1, numpoints=1, prop={'size': 12})
     plt.savefig('lstm_perplexity', bbox_extra_artists=(lgd,), bbox_inches='tight')
     plt.show()
