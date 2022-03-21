@@ -5,17 +5,17 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 
-# Dataset SP2 20
-y1 = np.array([2.659,2.612,2.601,2.615,1.889,1.598,1.595,1.595,1.594,1.593])
-y2 = np.array([1.923,1.878,1.878,1.831,1.838,1.820,1.795,1.775,1.774,1.775,1.760,1.744,1.733,1.737,1.724,1.706,1.716,1.697,1.697,1.693])
-y3 = np.array([1.624,1.600,1.594,1.606,1.599,1.600,1.593,1.594,1.593,1.593])
-y4 = np.array([3.997,3.995,3.998,3.996,3.996,3.996,3.996,3.996,3.996,3.996])
+# # Dataset SP2 20
+# y1 = np.array([2.659,2.612,2.601,2.615,1.889,1.598,1.595,1.595,1.594,1.593])
+# y2 = np.array([1.923,1.878,1.878,1.831,1.838,1.820,1.795,1.775,1.774,1.775,1.760,1.744,1.733,1.737,1.724,1.706,1.716,1.697,1.697,1.693])
+# y3 = np.array([1.624,1.600,1.594,1.606,1.599,1.600,1.593,1.594,1.593,1.593])
+# y4 = np.array([3.997,3.995,3.998,3.996,3.996,3.996,3.996,3.996,3.996,3.996])
 
-# # Dataset SP2 100
-# y1 = np.array([2.837,2.564,2.792,2.690,1.813,1.513,1.416,1.413,1.412,1.412])
-# y2 = np.array([1.656,1.682,1.675,1.651,1.689,1.688,1.646,1.648,1.634,1.624,1.604,1.586,1.564,1.566,1.564,1.550,1.541,1.548,1.534,1.527])
-# y3 = np.array([1.413,1.413,1.410,1.407,1.408,1.406,1.395,1.404,1.414,1.393])
-# y4 = np.array([3.219,3.217,3.217,3.219,3.218,3.217,3.217,3.218,3.217,3.217])
+# Dataset SP2 100
+y1 = np.array([2.837,2.564,2.792,2.690,1.813,1.513,1.416,1.413,1.412,1.412])
+y2 = np.array([1.656,1.682,1.675,1.651,1.689,1.688,1.646,1.648,1.634,1.624,1.604,1.586,1.564,1.566,1.564,1.550,1.541,1.548,1.534,1.527])
+y3 = np.array([1.413,1.413,1.410,1.407,1.408,1.406,1.395,1.404,1.414,1.393])
+y4 = np.array([3.219,3.217,3.217,3.219,3.218,3.217,3.217,3.218,3.217,3.217])
 
 # # Dataset SP2 200
 # y1 = np.array([2.712,2.680,2.694,2.584,1.745,1.479,1.349,1.342,1,341,1.340])
@@ -45,12 +45,12 @@ with plt.style.context(('seaborn')):
     plt.tick_params(labelsize='large', width=5)
     plt.grid(True)
     plt.grid(which='major', linestyle='-.', linewidth='0.5', color='grey')
-    plt.grid(which='minor', linestyle=':', linewidth='0.2', color='grey')
+    # plt.grid(which='minor', linestyle=':', linewidth='0.2', color='grey')
     ax = plt.axes()
-    ax.set_xlim(0, 20)
-    ax.set_ylim(0, 5)
+    ax.set_xlim(1, 20)
+    ax.set_ylim(1, 5)
     ax.set_xlabel('Number of Epochs', fontsize=15)
     ax.set_ylabel('Perplexity of the Model, bpc', fontsize=15)
     lgd = ax.legend(loc='upper right', shadow=True, fancybox=True, numpoints=1, prop={'size': 12})
-    plt.savefig('peplexity_sp2_20', bbox_extra_artists=(lgd,), bbox_inches='tight')
+    plt.savefig('peplexity_sp2_100', bbox_extra_artists=(lgd,), bbox_inches='tight')
     plt.show()
