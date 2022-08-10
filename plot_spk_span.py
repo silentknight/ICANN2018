@@ -29,7 +29,7 @@ from matplotlib.figure import Figure
 # y5 = np.array([2.572,2.619,2.626,2.612,1.696,1.389,1.308,1.307,1.305,1.305])
 # y6 = np.array([2.675,2.668,2.666,2.667,1.714,1.386,1.301,1.301,1.301,1.301])
 
-# AWD-LSTM
+# # AWD-LSTM
 # y1 = np.array([1.624,1.600,1.594,1.606,1.599,1.600,1.593,1.594,1.593,1.593,1.593,1.593,1.593,1.593,1.593,1.593,1.593,1.593,1.593,1.593,1.593,1.593,1.593,1.593,1.593])
 # y2 = np.array([1.413,1.413,1.410,1.407,1.408,1.406,1.395,1.404,1.414,1.393,1.393,1.393,1.393,1.393,1.393,1.393,1.393,1.393,1.393,1.393,1.393,1.393,1.393,1.393,1.393])
 # y3 = np.array([1.350,1.346,1.348,1.346,1.344,1.345,1.346,1.346,1.344,1.344,1.344,1.344,1.344,1.344,1.344,1.344,1.344,1.344,1.344,1.344,1.344,1.344,1.344,1.344,1.344])
@@ -80,12 +80,12 @@ with plt.style.context(('seaborn')):
     plt.minorticks_on()
     plt.grid(which='major', linestyle='-.', linewidth='0.5', color='grey')
     plt.grid(which='minor', linestyle=':', linewidth='0.2', color='grey')
-    plt.xlim(1, len(y7))
-    plt.ylim(1, 4.5)
+    plt.xlim(1, len(y6))
+    plt.ylim(1, 3)
     plt.xlabel('Number of Epochs', fontsize=15)
     plt.ylabel('Perplexity of the Model, bpc', fontsize=15)
     lgd = plt.legend(loc='upper right', shadow=True, fancybox=True, numpoints=1, prop={'size': 12})
     ax = plt.gca()
     ax.xaxis.set_major_locator(MaxNLocator(integer=True))
-    plt.savefig('perplexity_PTB', bbox_extra_artists=(lgd,), bbox_inches='tight')
+    plt.savefig('perplexity_Transformer-XL_14M', bbox_extra_artists=(lgd,), bbox_inches='tight')
     plt.show()
