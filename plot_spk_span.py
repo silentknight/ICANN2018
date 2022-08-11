@@ -85,7 +85,7 @@ with plt.style.context(('seaborn')):
     plt.minorticks_on()
     plt.grid(which='major', linestyle='-.', linewidth='0.5', color='grey')
     plt.grid(which='minor', linestyle=':', linewidth='0.2', color='grey')
-    plt.xlim(1, len(y2))
+    plt.xlim(1, 100)
     plt.ylim(1, 5)
     plt.xlabel('Number of Epochs', fontsize=15)
     plt.ylabel('Perplexity of the Model, bpc', fontsize=15)
